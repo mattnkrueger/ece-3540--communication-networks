@@ -1,24 +1,18 @@
 # ECE:3540 - Communication Networks (Fall 2024)
-**Instructor:** Professor Tyler Bell, University of Iowa
 
-## Course Description
+### Description:
+Course Contents of Communication Networks taught by Tyler Bell 
 
-This course covers the fundamentals of data communication networks and their applications, using the five-layer Internet model as a framework. 
+---
 
-Key topics include:
-- Application layer services (HTTP, SMTP, DNS)
-- Transport and network layer functions
-- Internet architecture and operation
-- Emerging developments in content provider networks
-- Cloud services and network security
+### Project Tags
+<div align="left">
+  <img src="tags/uiowa.svg" width="123" alt="Uiowa" />
+  <img src="tags/handwritten.svg" width="171" alt="Handwritten" />
+  <img src="tags/python.svg" width="60" alt="Python" />
+</div>
 
-## Repository Structure
-
-This repository contains course materials organized as follows:
-
-- **Homework**: homework problem sets
-- **Labs**: Labs related to Wireshark and HTTP/s communication
-- **Project**: Socket programming implementation
+---
 
 ## Homework
 - [Homework 1](homework/homework_1.pdf)
